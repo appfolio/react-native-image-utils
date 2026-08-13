@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: react-native-image-utils
+  description: "Resize local images with React Native"
+spec:
+  type: library
+  lifecycle: stable
+  owner: CODEOWNERS
